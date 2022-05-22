@@ -21,7 +21,7 @@
 
 # JK Flip Flop
 <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/63312173/169700494-e2502371-df71-472e-a226-d4b8eaa4dfd3.png">
+  <img width="600" height="250" src="https://user-images.githubusercontent.com/63312173/169700494-e2502371-df71-472e-a226-d4b8eaa4dfd3.png">
 </p>
 
 

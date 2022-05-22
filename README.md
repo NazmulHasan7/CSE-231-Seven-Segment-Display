@@ -19,14 +19,9 @@
   <img width="600" src="https://user-images.githubusercontent.com/63312173/169700060-0e92aa97-624a-4b88-9645-9fa72db7c09e.png">
 </p>
 
-# Basic Gates
-<p align="center">
-  <img width="500" height="600" src="https://user-images.githubusercontent.com/63312173/169700218-96d4ba42-53ad-4bf0-b001-e5170b33a49a.png">
-</p>
-
 # JK Flip Flop
 <p align="center">
-  <img width="500" height="600" src="https://user-images.githubusercontent.com/63312173/169700494-e2502371-df71-472e-a226-d4b8eaa4dfd3.png">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/63312173/169700494-e2502371-df71-472e-a226-d4b8eaa4dfd3.png">
 </p>
 
 

@@ -16,6 +16,6 @@
     
 # State-Diagram
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63312173/169700060-0e92aa97-624a-4b88-9645-9fa72db7c09e.png">
+  <img width="500" width="500" src="https://user-images.githubusercontent.com/63312173/169700060-0e92aa97-624a-4b88-9645-9fa72db7c09e.png">
 </p>
 

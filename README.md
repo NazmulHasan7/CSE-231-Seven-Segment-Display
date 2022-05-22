@@ -23,8 +23,13 @@
 <p align="center">
   <img width="600" height="250" src="https://user-images.githubusercontent.com/63312173/169700494-e2502371-df71-472e-a226-d4b8eaa4dfd3.png">
 </p>
+
+# T Flip Flop
 <p align="center">
-  <img width="800" height="500" src="https://user-images.githubusercontent.com/63312173/169700595-fe955a57-e54f-4bd6-b032-ecf50fa0e3f3.png">
+  <img width="600" height="250" src="https://user-images.githubusercontent.com/63312173/169700660-b29960a4-667d-443a-8e15-8afa10c00ad3.png">
 </p>
 
-
+# D Flip Flop
+<p align="center">
+  <img width="600" height="250" src="https://user-images.githubusercontent.com/63312173/169700694-e89f15da-d613-4777-ab69-191643c286e2.png">
+</p>
